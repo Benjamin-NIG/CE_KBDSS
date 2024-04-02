@@ -380,6 +380,7 @@ def main():
 
     if page == "Cover Page":
         cover_page()
+        st.image('kbdss.jpg', caption='KBDSS flow')
     elif page == "Data Collection":
         data_collection()
     elif page == "Generate Report":
