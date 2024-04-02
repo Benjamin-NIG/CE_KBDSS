@@ -149,6 +149,7 @@ action_plans = {
 # Function to display the cover page
 def cover_page():
     st.title("Automated Knowledge-Based Decision Support System(KBDSS) for Project Circularity")
+    st.image('kbdss.jpg', caption='KBDSS flow')
     st.markdown("""
          
          
@@ -164,6 +165,7 @@ def cover_page():
         An empirical questionnaire was employed to collect data on DMFs from subject matter experts. The data were analysed and the CE suitability were computed 
         for the 5 themes of DMFs. The index generated and the action plan for improvement gathered from literature and interview were deployed into the streamlit framework
         to develop the KBDSS for project circularity.
+        
 
         **What does it do:** 
         -By inputting data across phase of integration, environmental consideration,organisational attributes,
@@ -380,7 +382,6 @@ def main():
 
     if page == "Cover Page":
         cover_page()
-        st.image('kbdss.jpg', caption='KBDSS flow')
     elif page == "Data Collection":
         data_collection()
     elif page == "Generate Report":
