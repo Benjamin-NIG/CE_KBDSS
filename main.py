@@ -149,17 +149,19 @@ action_plans = {
 # Function to display the cover page
 def cover_page():
     st.title("Automated Knowledge-Based Decision Support System(KBDSS) for Project Circularity")
-    st.image('kbdss.jpg', caption='KBDSS flow')
+    
     st.markdown("""
-         
-         
+            
         **System Overview:**      
         -Welcome to the KBDSS for construction project circularity decision making. 
         This application is designed to collect insights on the adoption of circular economy principles in the building construction industry.
         This interactive platform is designed to assist your CE implementaion decision making
         and also provide your with automated action plan based on your circularity index. The KBDSS involves the computation of CE suitability index based on the DMFs in 
-        5 categories(phase of integration, environmental consideration,organisational attributes,project team capacity and project feature and circular design) 
-
+        5 categories(phase of integration, environmental consideration,organisational attributes,project team capacity and project feature and circular design)""")
+  
+    st.image('kbdss.jpg', caption='KBDSS flow') 
+    
+    st.markdown("""
         **How was it developed:**   
         -The automated KBDSS adopted a robust streamlit framework for its development. It leveraged the DMFs for CE adoption in construction projects. 
         An empirical questionnaire was employed to collect data on DMFs from subject matter experts. The data were analysed and the CE suitability were computed 
