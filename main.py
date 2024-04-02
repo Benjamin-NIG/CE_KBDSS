@@ -159,7 +159,7 @@ def cover_page():
         and also provide your with automated action plan based on your circularity index. The KBDSS involves the computation of CE suitability index based on the DMFs in 
         5 categories(phase of integration, environmental consideration,organisational attributes,project team capacity and project feature and circular design)""")
   
-    st.image('kbdss.jpg', caption='KBDSS flow') 
+    st.image('kbdss_photos/kbdss.jpg', caption='KBDSS flow') 
     
     st.markdown("""
         **How was it developed:**   
