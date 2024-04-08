@@ -156,7 +156,7 @@ def cover_page():
         -Welcome to the KBDSS for construction project circularity decision making. 
         This application is designed to collect insights on the adoption of circular economy principles in the building construction industry.
         This interactive platform is designed to assist your CE implementation decision making
-        and also provide your with automated action plan based on your circularity index. The KBDSS involves the computation of CE suitability index based on the DMFs in 
+        and also provide you with automated action plan based on your project circularity index. The KBDSS involves the computation of CE suitability index based on the DMFs in 
         5 categories(phase of integration, environmental consideration,organisational attributes,project team capacity and project feature and circular design)""")
   
     st.image('kbdss_photos/kbdss1.jpg', caption='KBDSS flow') 
