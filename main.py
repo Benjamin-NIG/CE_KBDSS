@@ -187,7 +187,7 @@ def cover_page():
 action_plans = {
     "Phase of Integration": {
         "Material Procurement Processes": action_plans["DMF1"],
-        "Site Waste Management": action_plans["DMF2"]
+        "Construction stage site waste management ": action_plans["DMF2"]
     },
     "Environmental Consideration": {
         "Pollution and Environmental Impact": action_plans["DMF6"],
@@ -200,23 +200,23 @@ action_plans = {
         "Business Strategy and CE Compliance": action_plans["DMF14"],
         "Available Circular Business Model": action_plans["DMF16"],
         "Supply Chain Integration": action_plans["DMF17"],
-        "Firm Use of CE Principles": action_plans["DMF20"],
-        "Availability of Skilled and Experienced Workforce": action_plans["DMF21"]
+        "Firm Use of CE Principles": action_plans["DMF19"],
+        "Availability of Skilled and Experienced Workforce": action_plans["DMF20"]
     },
     "Project Team Capacity for CE": {
-        "Project Managers' and Site Engineers’ Interest in CE": action_plans["DMF22"],
-        "Project Team Understanding of Various CE Strategies": action_plans["DMF23"],
-        "Willingness and Readiness of Project Team to Adopt CE": action_plans["DMF26"],
-        "Communication and Collaboration Among Team": action_plans["DMF28"],
-        "Project Team’s Proficiency in CE Tools and Performance Metrics": action_plans["DMF29"]
+        "Project Managers' and Site Engineers’ Interest in CE": action_plans["DMF21"],
+        "Project Team Understanding of Various CE Strategies": action_plans["DMF22"],
+        "Willingness and Readiness of Project Team to Adopt CE": action_plans["DMF23"],
+        "Communication and Collaboration Among Team": action_plans["DMF24"],
+        "Project Team’s Proficiency in CE Tools and Performance Metrics": action_plans["DMF26"]
     },
     "Product Feature and Circular Design": {
-        "Modular Design and Ease of Disassembly/Deconstruction": action_plans["DMF30"],
-        "Eco-Design and Biodegradable Materials": action_plans["DMF31"],
-        "Availability of Product Information and Data": action_plans["DMF33"],
-        "Material Recovery and Reparability": action_plans["DMF34"],
-        "Cost Implications of CE Integration and Lifecycle Cost Analysis": action_plans["DMF35"],
-        "Circular Design Scope Clarity": action_plans["DMF36"]
+        "Modular Design and Ease of Disassembly/Deconstruction": action_plans["DMF27"],
+        "Eco-Design and Biodegradable Materials": action_plans["DMF28"],
+        "Availability of Product Information and Data": action_plans["DMF29"],
+        "Material Recovery and Reparability": action_plans["DMF30"],
+        "Cost Implications of CE Integration and Lifecycle Cost Analysis": action_plans["DMF31"],
+        "Circular Design Scope Clarity": action_plans["DMF32"]
     }
 }
 
