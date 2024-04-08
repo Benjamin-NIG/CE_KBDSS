@@ -75,70 +75,70 @@ action_plans = {
         3: "Fully integrate CE into the entire supply chain, such as extending CE principles and practices to all suppliers and subcontractors, creating a circular supply chain network and system, and maximizing the efficiency and effectiveness of the supply chain."
     },
    
-    "DMF20": {
+    "DMF19": {
         1: "Introduce CE principles in some organizational processes, raising awareness among staff and integrating CE aspects into existing processes and functions.",
         2: "Expand the use of CE principles in major decisions, developing CE criteria for decision making and involving CE experts in the decision-making process.",
         3: "Embed CE principles across all organizational levels and processes, establishing a clear vision for CE and aligning all organizational processes with CE principles."
     },
-    "DMF21": {
+    "DMF20": {
         1: "Provide basic CE training to the workforce, introducing the concept of CE and providing examples and case studies to enhance basic knowledge and awareness.",
         2: "Develop an advanced training program for CE skills, addressing CE skill gaps and designing a tailored training program to improve CE competencies.",
         3: "Establish a continuous learning culture for CE across the organization, supporting a learning environment for CE and encouraging the development of CE skills."
     },
-    "DMF22": {
+    "DMF21": {
         1: "Encourage basic interest in CE among project leaders, informing and inspiring them about the value of CE and empowering them to explore CE initiatives.",
         2: "Develop specific CE goals for project managers and engineers, setting CE performance expectations and providing support for achieving these goals.",
         3: "Ensure strong commitment and active engagement in CE from all project leaders, involving them in CE strategy and fostering a sense of ownership for CE initiatives."
     },
-    "DMF23": {
+    "DMF22": {
         1: "Provide introductory knowledge of CE strategies, explaining main CE strategies and highlighting their benefits to staff.",
         2: "Conduct workshops on various CE strategies, offering hands-on exercises and practical examples of applying CE strategies.",
         3: "Ensure deep understanding and application of diverse CE strategies, assessing and enhancing CE strategy knowledge and encouraging the use of diverse CE strategies in different contexts."
     },
    
-    "DMF26": {
+    "DMF23": {
         1: "Promote general openness to CE adoption, inspiring staff about the potential of CE and empowering them to explore CE adoption.",
         2: "Cultivate a strong willingness to adopt CE practices, developing CE adoption criteria and involving staff in the CE adoption process.",
         3: "Create a culture of enthusiasm and readiness for CE adoption, establishing a clear vision for CE adoption and aligning organizational processes with CE adoption."
     },
    
-    "DMF28": {
+    "DMF24": {
         1: "Encourage regular team communication on CE topics, providing communication channels for CE topics and soliciting team feedback.",
         2: "Enhance collaboration on CE initiatives, facilitating collaborative CE initiatives and involving team members in CE initiative design.",
         3: "Establish industry-leading practices in CE communication and collaboration, creating a system for CE communication and embedding CE practices in the industry."
     },
-    "DMF29": {
+    "DMF26": {
         1: "Introduce the use of basic CE tools, explaining main CE tools and highlighting their benefits.",
         2: "Develop proficiency in specific CE tools and metrics, addressing CE tool gaps and designing a tailored training program.",
         3: "Achieve expert-level proficiency in a range of CE tools and performance metrics, updating CE tool knowledge regularly and facilitating advanced use of CE tools."
     },
-    "DMF30": {
+    "DMF27": {
         1: "Encourage the use of modular elements in small projects, experimenting with modular components and evaluating their benefits.",
         2: "Train teams in advanced modular design techniques, addressing modular design skill gaps and designing a comprehensive training program.",
         3: "Fully integrate modular design and ease of disassembly in all projects, setting ambitious modular design targets and achieving high modular design goals."
     },
-    "DMF31": {
+    "DMF28": {
         1: "Start using eco-friendly and biodegradable materials in select projects, experimenting with alternative materials and evaluating their benefits.",
         2: "Expand the use of eco-design principles and materials, applying passive design principles and enhancing biodiversity.",
         3: "Fully integrate eco-design and biodegradable materials in all products, establishing a comprehensive eco-design policy and creating a culture of eco-design."
     },
    
-    "DMF33": {
+    "DMF29": {
         1: "Ensure basic product information is available for maintenance, collecting product information and making it accessible for maintenance staff.",
         2: "Develop comprehensive databases for product information and data, organizing product information in a structured way and providing detailed data on product performance.",
         3: "Lead in the industry in providing complete product lifecycle information, updating product information regularly and facilitating advanced access to product data."
     },
-    "DMF34": {
+    "DMF30": {
         1: "Implement basic practices for material recovery and repair, segregating waste materials and inspecting and repairing products.",
         2: "Develop advanced systems for material recovery and reparability, using digital tools for material tracking and investing in technology for efficient repair.",
         3: "Set industry standards in material recovery and product reparability, collaborating with recovery and repair companies and achieving high recovery and reparability rates."
     },
-    "DMF35": {
+    "DMF31": {
         1: "Assess the cost implications of basic CE integration, estimating costs and benefits of CE integration and managing financial resources.",
         2: "Conduct detailed analyses of lifecycle costs and CE integration, measuring lifecycle costs and benefits and using the results for decision making.",
         3: "Develop industry-leading practices in managing costs of CE integration, implementing a cost management model for CE integration and optimizing cost performance."
     },
-    "DMF36": {
+    "DMF32": {
         1: "Define the scope of circular design in initial projects, introducing circular design concepts and defining expected outcomes for initial projects.",
         2: "Clarify and expand the circular design scope in major projects, reviewing initial projects to improve circular design for major projects.",
         3: "Set clear, comprehensive circular design objectives across all projects, establishing a vision for circular design and aligning project processes with circular design objectives."
