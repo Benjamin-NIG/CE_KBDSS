@@ -175,7 +175,7 @@ def cover_page():
         action plan tailored towards improving the circularity decision making for the project will be automated.
         
         **How to use it:** 
-        -Navigate through the sidebar and input data to rate their level of agreement with various decision-making factors (DMFs) for circular economy 
+        -Navigate through the sidebar and input data to rate your level of agreement with various decision-making factors (DMFs) for circular economy 
         integration across different phases and aspects of construction projects.
         For each DMF, select your level of agreement from 1 to 5, where 1 indicates strong disagreement and 5 indicates strong agreement.
         
